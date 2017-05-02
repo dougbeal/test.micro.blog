@@ -1,6 +1,6 @@
 # Dependencies
 # - markdown:         redcarpet
-highlighter:      pygments
+#highlighter:      pygments
 
 # Permalinks
 # - permalink:        pretty
@@ -42,5 +42,5 @@ gravatar_hash: "264bb52db1a9563dd963816012316a7f"
 avatar: "http://www.gravatar.com/avatar/264bb52db1a9563dd963816012316a7f?s=160"
 full_name: "Douglas Beal"
 bio: ""
-twitter_username: "murderofcrows"
+twitter_username: "_dougbeal"
 github_username: "dougbeal"
